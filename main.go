@@ -30,6 +30,7 @@ var OLD string
 var NEW string
 
 func main() {
+
   isError := false
   isOverwrite := false
   isGoOnly := false

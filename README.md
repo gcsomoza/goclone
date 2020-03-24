@@ -32,3 +32,4 @@ Clone only .go files.
 ```
 goclone -s github.com/xxx/your_project -d github.com/xxx/your_copied_project -o --go-only
 ```
+
