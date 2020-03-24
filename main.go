@@ -10,7 +10,7 @@ import (
   "github.com/gcsomoza/goclone/cp"
 )
 
-const Help = `USAGE: goclone -s directory -d directory [-o]
+const Help = `USAGE: goclone -s directory -d directory [-o --go-only]
 This tool allows you to copy a go project to another directory
 eliminating the hassle to modify your imports manually!
 
